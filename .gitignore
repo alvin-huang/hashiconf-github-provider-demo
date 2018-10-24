@@ -6,4 +6,7 @@
 *.tfstate.*
 
 # .tfvars files
-*.tfvars
+# *.tfvars normally this would be ignored but for the sake of the demo we commit it
+
+# vscode files
+.vscode/
